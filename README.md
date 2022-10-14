@@ -1,5 +1,7 @@
 # rust-os
 
+https://os.phil-opp.com/
+
 ## Toolchain
 ```bash
 rustup override set nightly-2022-10-07
